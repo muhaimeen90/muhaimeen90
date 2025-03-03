@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C/C++ or CP**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on email!</h3>
 <p align="left">
 </p>
 
