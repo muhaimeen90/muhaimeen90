@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhaimeen</h1>
 <h3 align="center">Currently Pursuing a Bachelor's Degree in Software Engineering at University of Dhaka</h3>
 
-- 🌱 I’m currently learning **Lua and Python** [cite: 1, 6]
+- 🌱 I’m currently learning more about **ComputerVision and LLMs**
 
 - 💬 Ask me about **C/C++ or CP**
 
